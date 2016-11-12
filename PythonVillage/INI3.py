@@ -1,2 +1,2 @@
-dataset = "1t57E0dLMdSkdjO48ea8vji26kDiomedeaXckoHVgTHdiIVNdrmA7AVxdkxVJN1YIXcXSqSt2yHTLBgUILlQ4nGQ4INPvegansfzMHpPiyoQx6u0EzDVnnDSRPy544eg7gjbhGM3P8c5AYpSFA92KYTWzZexIrqIg0pFvMHw9DY4"
-print(dataset[26:33 + 1], dataset[92:97 + 1], sep=" ")
+dataset = "HumptyDumptysatonawallHumptyDumptyhadagreatfallAlltheKingshorsesandalltheKingsmenCouldntputHumptyDumptyinhisplaceagain"
+print(dataset[22:27 + 1], dataset[97:102 + 1], sep=" ")
